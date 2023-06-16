@@ -16,6 +16,7 @@ public class LoginTest extends TestBase {
 	{
 		//expected result
 		String expectedText = "Login";
+		System.out.println("");
 		LoginPage page = new LoginPage(driver);
 		
 		String actualText = page.getTitle();
