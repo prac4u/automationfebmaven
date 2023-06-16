@@ -8,7 +8,7 @@ public class LeaveTest {
 	public void test()
 	{
 		System.out.println("Test");
-		System.out.println("Passed");
+		System.out.println("Passed"
 	}
 
 }
