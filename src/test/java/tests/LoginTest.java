@@ -3,7 +3,6 @@ package tests;
 import org.apache.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import org.testng.asserts.SoftAssert;
 
 import pages.LoginPage;
 import testbase.TestBase;
