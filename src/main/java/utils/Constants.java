@@ -19,4 +19,6 @@ public class Constants {
 	public static List<String> HOME_PAGE_MENU_LIST = Arrays.asList(new String[]{"Admin","PIM","Leave","Time","Recruitment","My Info","Performance","Dashboard","Directory","Maintenance","Buzz"});
 
 	public static String c = "ABC";
+	
+	public static String myBranch="Yes";
 }
