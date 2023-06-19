@@ -21,4 +21,6 @@ public class Constants {
 	public static String c = "ABC";
 	
 	public static String myBranch="Yes";
+
+	public static String BAC="QA1";
 }
