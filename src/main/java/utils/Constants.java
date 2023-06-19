@@ -22,5 +22,10 @@ public class Constants {
 	
 	public static String myBranch="Yes";
 
+	
+	public static String QA2Const="QA2";
+
+
 	public static String BAC="QA1";
+
 }
